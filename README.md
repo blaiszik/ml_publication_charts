@@ -32,6 +32,7 @@ Many of these charts seem to have different numbers (though showing the same tre
 * Improve plot consistency and styling
 * Add statistics for other domains
 * Update for 2019 when full data are available
+* Consider adding other common plots
 
 ## Cite
 No citation yet, check back soon.
