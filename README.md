@@ -1,7 +1,7 @@
 # Charting ML Publications in Science
 
 As machine learning has grown in popularity and domain of applicability, charts showing the growth have popped up in review articles, presentations, and more.
-Since many of these charts seem to have different numbers (though showing the same trend!), and  often without provenance. Thus, this repository was made to act as a resource for those looking to dig into the numbers further, or to simply find a chart for their own usage. 
+Many of these charts seem to have different numbers (though showing the same trend!), and are often without provenance. Thus, this repository was made to act as a resource for those looking to dig into the numbers further, to quickly customize our existing plots, or to simply find a ready-made chart for their own usage. 
 
 # The Charts
 ## Scatter Plots
