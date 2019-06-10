@@ -6,7 +6,7 @@ Since many of these charts seem to have different numbers (though showing the sa
 # The Charts
 ## Scatter Plots
 ![All domain grid scatter](./output/1-grid.png)
-![All domain overlay scatter](./output/1-all-together.png)
+![All domain overlay scatter](./output/1-all-scatter.png)
 
 ## Line Plots
 ![All domain grid line](./output/1-grid-line.png)
