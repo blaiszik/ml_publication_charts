@@ -21,6 +21,11 @@ Many of these charts seem to have different numbers (though showing the same tre
 ## Methodology
 * Web of Science topic matching and matching of domain. Exact queries are provided in the data directory.
 
+| ID      | Service |Query |
+| ----------- |----| ----------- |
+| 1           |Web of Science| TS=("machine learning" OR "informatics" OR "deep learning") AND WC="{domain}"  |
+
+
 ## Customization
 * All routines to create the plots are provided in the repo notebooks. 
 * Customize the figure closest to your heart, and it will be saved out to the output directory.
