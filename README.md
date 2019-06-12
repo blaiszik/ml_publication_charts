@@ -9,8 +9,8 @@ Many of these charts seem to have different numbers (though showing the same tre
 ![All domain overlay scatter](./output/1-all-scatter.png)
 
 ## Line Plots
-![All domain grid line](./output/1-grid-line.png)
-![All domain overlay line](./output/1-all-line.png)
+![All domain grid line](./output/1-grid-line-norm.png)
+![All domain overlay line](./output/1-all-line-norm.png)
 
 ## The Domains
 * Materials Science
