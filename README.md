@@ -4,6 +4,8 @@ As machine learning has grown in popularity and domain of applicability, charts 
 Many of these charts seem to have different numbers (though showing the same trend!), and are often without provenance. Thus, this repository was made to act as a resource for those looking to dig into the numbers further, to quickly customize our existing plots, or to simply find a ready-made chart for their own usage. 
 
 # The Charts
+Note that the charts come in two forms, normalized and count. Normalized plots take into account the relative size of the domain of interest (i.e., the number of matching articles / the total number of articles in a domain).
+
 ## Scatter Plots
 ![All domain grid scatter](./output/1-grid.png)
 ![All domain overlay scatter](./output/1-all-scatter.png)
