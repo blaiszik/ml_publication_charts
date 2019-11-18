@@ -1,4 +1,5 @@
 ﻿year,count,count_domain,category
+2019,880,150708,Materials Science
 2018,438,165938,Materials Science
 2017,208,162121,Materials Science
 2016,99,147722,Materials Science
@@ -18,6 +19,7 @@
 2002,0,66784,Materials Science
 2001,3,68480,Materials Science
 2000,4,67554,Materials Science
+2019,1553,217090,Chemistry
 2018,1189,231955,Chemistry
 2017,540,222969,Chemistry
 2016,341,217435,Chemistry
@@ -37,6 +39,7 @@
 2002,31,117084,Chemistry
 2001,24,114831,Chemistry
 2000,21,112190,Chemistry
+2019,1055,126423,Physics
 2018,708,171150,Physics
 2017,340,177894,Physics
 2016,186,174146,Physics
