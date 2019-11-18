@@ -38,8 +38,9 @@ Note that the charts come in two forms, normalized and count. Normalized plots t
 * Consider a Google Scholar implementation
 * Improve plot consistency and styling
 * Add statistics for other domains
-* Update for 2019 when full data are available
+* Update for 2019 when full data are available (add final numbers)
 * Consider adding other common plots
+* Fix plots now that there are more domains in the data
 
 ## Cite
 No citation yet, check back soon.
