@@ -1,121 +1,121 @@
-﻿year,count,count_domain,category
-2019,880,150708,Materials Science
-2018,438,165938,Materials Science
-2017,208,162121,Materials Science
-2016,99,147722,Materials Science
-2015,72,140425,Materials Science
-2014,41,156657,Materials Science
-2013,26,150986,Materials Science
-2012,18,149895,Materials Science
-2011,16,137780,Materials Science
-2010,14,110954,Materials Science
-2009,27,101176,Materials Science
-2008,10,100775,Materials Science
-2007,13,96937,Materials Science
-2006,20,85648,Materials Science
-2005,10,80638,Materials Science
-2004,6,80224,Materials Science
-2003,6,73303,Materials Science
-2002,0,66784,Materials Science
-2001,3,68480,Materials Science
-2000,4,67554,Materials Science
-2019,1553,217090,Chemistry
-2018,1189,231955,Chemistry
-2017,540,222969,Chemistry
-2016,341,217435,Chemistry
-2015,272,210867,Chemistry
-2014,161,205866,Chemistry
-2013,163,193274,Chemistry
-2012,122,185950,Chemistry
-2011,122,176698,Chemistry
-2010,100,161354,Chemistry
-2009,99,161934,Chemistry
-2008,65,156217,Chemistry
-2007,58,150369,Chemistry
-2006,65,146649,Chemistry
-2005,50,136977,Chemistry
-2004,46,131842,Chemistry
-2003,38,125264,Chemistry
-2002,31,117084,Chemistry
-2001,24,114831,Chemistry
-2000,21,112190,Chemistry
-2019,1055,126423,Physics
-2018,708,171150,Physics
-2017,340,177894,Physics
-2016,186,174146,Physics
-2015,119,170701,Physics
-2014,67,169827,Physics
-2013,53,169136,Physics
-2012,35,164420,Physics
-2011,31,157951,Physics
-2010,20,153188,Physics
-2009,23,151285,Physics
-2008,17,152091,Physics
-2007,14,148235,Physics
-2006,19,137138,Physics
-2005,20,131163,Physics
-2004,6,125616,Physics
-2003,1,123514,Physics
-2002,8,118072,Physics
-2001,3,113035,Physics
-2000,1,111741,Physics
-2019,6687,73479,Computer Science
-2018,5360,80261,Computer Science
-2017,3301,73235,Computer Science
-2016,2456,69900,Computer Science
-2015,1909,63511,Computer Science
-2014,1455,55541,Computer Science
-2013,1232,52531,Computer Science
-2012,1126,49264,Computer Science
-2011,1123,48706,Computer Science
-2010,935,45307,Computer Science
-2009,843,44099,Computer Science
-2008,759,39491,Computer Science
-2007,609,34587,Computer Science
-2006,902,51469,Computer Science
-2005,805,52363,Computer Science
-2004,601,44868,Computer Science
-2003,491,39065,Computer Science
-2002,359,30710,Computer Science
-2001,294,26623,Computer Science
-2000,273,28411,Computer Science
-2019,396,68453,Biochemistry & Molecular Biology
-2018,325,79865,Biochemistry & Molecular Biology
-2017,196,77135,Biochemistry & Molecular Biology
-2016,171,74790,Biochemistry & Molecular Biology
-2015,149,75778,Biochemistry & Molecular Biology
-2014,122,75785,Biochemistry & Molecular Biology
-2013,98,75245,Biochemistry & Molecular Biology
-2012,113,77161,Biochemistry & Molecular Biology
-2011,123,75239,Biochemistry & Molecular Biology
-2010,86,73373,Biochemistry & Molecular Biology
-2009,101,70133,Biochemistry & Molecular Biology
-2008,87,71220,Biochemistry & Molecular Biology
-2007,88,68805,Biochemistry & Molecular Biology
-2006,76,68369,Biochemistry & Molecular Biology
-2005,48,68624,Biochemistry & Molecular Biology
-2004,52,66851,Biochemistry & Molecular Biology
-2003,42,64052,Biochemistry & Molecular Biology
-2002,28,60344,Biochemistry & Molecular Biology
-2001,23,60126,Biochemistry & Molecular Biology
-2000,17,57879,Biochemistry & Molecular Biology
-2019,6431,262532,Engineering
-2018,4619,286449,Engineering
-2017,2344,269072,Engineering
-2016,1501,251639,Engineering
-2015,1097,235662,Engineering
-2014,776,208114,Engineering
-2013,604,198279,Engineering
-2012,522,186532,Engineering
-2011,512,179960,Engineering
-2010,459,170633,Engineering
-2009,386,168031,Engineering
-2008,302,155736,Engineering
-2007,228,144678,Engineering
-2006,270,136805,Engineering
-2005,191,131951,Engineering
-2004,148,121280,Engineering
-2003,115,119585,Engineering
-2002,89,112419,Engineering
-2001,82,111861,Engineering
-2000,71,111139,Engineering
+﻿year,count,count_domain,CAGR1,CAGR2,CAGR5,category
+2019,880,150708,1.00913242,1.056883378,0.846459401,Materials Science
+2018,438,165938,,,,Materials Science
+2017,208,162121,,,,Materials Science
+2016,99,147722,,,,Materials Science
+2015,72,140425,,,,Materials Science
+2014,41,156657,,,,Materials Science
+2013,26,150986,,,,Materials Science
+2012,18,149895,,,,Materials Science
+2011,16,137780,,,,Materials Science
+2010,14,110954,,,,Materials Science
+2009,27,101176,,,,Materials Science
+2008,10,100775,,,,Materials Science
+2007,13,96937,,,,Materials Science
+2006,20,85648,,,,Materials Science
+2005,10,80638,,,,Materials Science
+2004,6,80224,,,,Materials Science
+2003,6,73303,,,,Materials Science
+2002,0,66784,,,,Materials Science
+2001,3,68480,,,,Materials Science
+2000,4,67554,,,,Materials Science
+2019,2244,217090,0.169359041,0.295524775,0.182633627,Chemistry
+2018,1919,231955,,,,Chemistry
+2017,1337,222969,,,,Chemistry
+2016,1120,217435,,,,Chemistry
+2015,1090,210867,,,,Chemistry
+2014,970,205866,,,,Chemistry
+2013,1063,193274,,,,Chemistry
+2012,1051,185950,,,,Chemistry
+2011,985,176698,,,,Chemistry
+2010,910,161354,,,,Chemistry
+2009,963,161934,,,,Chemistry
+2008,915,156217,,,,Chemistry
+2007,767,150369,,,,Chemistry
+2006,744,146649,,,,Chemistry
+2005,680,136977,,,,Chemistry
+2004,645,131842,,,,Chemistry
+2003,522,125264,,,,Chemistry
+2002,448,117084,,,,Chemistry
+2001,385,114831,,,,Chemistry
+2000,322,112190,,,,Chemistry
+2019,1055,126423,0.490112994,0.761516726,0.735543612,Physics
+2018,708,171150,,,,Physics
+2017,340,177894,,,,Physics
+2016,186,174146,,,,Physics
+2015,119,170701,,,,Physics
+2014,67,169827,,,,Physics
+2013,53,169136,,,,Physics
+2012,35,164420,,,,Physics
+2011,31,157951,,,,Physics
+2010,20,153188,,,,Physics
+2009,23,151285,,,,Physics
+2008,17,152091,,,,Physics
+2007,14,148235,,,,Physics
+2006,19,137138,,,,Physics
+2005,20,131163,,,,Physics
+2004,6,125616,,,,Physics
+2003,1,123514,,,,Physics
+2002,8,118072,,,,Physics
+2001,3,113035,,,,Physics
+2000,1,111741,,,,Physics
+2019,6687,73479,,,,Computer Science
+2018,5360,80261,,,,Computer Science
+2017,3301,73235,,,,Computer Science
+2016,2456,69900,,,,Computer Science
+2015,1909,63511,,,,Computer Science
+2014,1455,55541,,,,Computer Science
+2013,1232,52531,,,,Computer Science
+2012,1126,49264,,,,Computer Science
+2011,1123,48706,,,,Computer Science
+2010,935,45307,,,,Computer Science
+2009,843,44099,,,,Computer Science
+2008,759,39491,,,,Computer Science
+2007,609,34587,,,,Computer Science
+2006,902,51469,,,,Computer Science
+2005,805,52363,,,,Computer Science
+2004,601,44868,,,,Computer Science
+2003,491,39065,,,,Computer Science
+2002,359,30710,,,,Computer Science
+2001,294,26623,,,,Computer Science
+2000,273,28411,,,,Computer Science
+2019,396,68453,,,,Biochemistry & Molecular Biology
+2018,325,79865,,,,Biochemistry & Molecular Biology
+2017,196,77135,,,,Biochemistry & Molecular Biology
+2016,171,74790,,,,Biochemistry & Molecular Biology
+2015,149,75778,,,,Biochemistry & Molecular Biology
+2014,122,75785,,,,Biochemistry & Molecular Biology
+2013,98,75245,,,,Biochemistry & Molecular Biology
+2012,113,77161,,,,Biochemistry & Molecular Biology
+2011,123,75239,,,,Biochemistry & Molecular Biology
+2010,86,73373,,,,Biochemistry & Molecular Biology
+2009,101,70133,,,,Biochemistry & Molecular Biology
+2008,87,71220,,,,Biochemistry & Molecular Biology
+2007,88,68805,,,,Biochemistry & Molecular Biology
+2006,76,68369,,,,Biochemistry & Molecular Biology
+2005,48,68624,,,,Biochemistry & Molecular Biology
+2004,52,66851,,,,Biochemistry & Molecular Biology
+2003,42,64052,,,,Biochemistry & Molecular Biology
+2002,28,60344,,,,Biochemistry & Molecular Biology
+2001,23,60126,,,,Biochemistry & Molecular Biology
+2000,17,57879,,,,Biochemistry & Molecular Biology
+2019,6431,262532,,,,Engineering
+2018,4619,286449,,,,Engineering
+2017,2344,269072,,,,Engineering
+2016,1501,251639,,,,Engineering
+2015,1097,235662,,,,Engineering
+2014,776,208114,,,,Engineering
+2013,604,198279,,,,Engineering
+2012,522,186532,,,,Engineering
+2011,512,179960,,,,Engineering
+2010,459,170633,,,,Engineering
+2009,386,168031,,,,Engineering
+2008,302,155736,,,,Engineering
+2007,228,144678,,,,Engineering
+2006,270,136805,,,,Engineering
+2005,191,131951,,,,Engineering
+2004,148,121280,,,,Engineering
+2003,115,119585,,,,Engineering
+2002,89,112419,,,,Engineering
+2001,82,111861,,,,Engineering
+2000,71,111139,,,,Engineering

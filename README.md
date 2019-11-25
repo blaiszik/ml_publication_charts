@@ -25,7 +25,7 @@ Note that the charts come in two forms, normalized and count. Normalized plots t
 
 | ID      | Service |Query |
 | ----------- |----| ----------- |
-| 1           |Web of Science| TS=("machine learning" OR "informatics" OR "deep learning") AND WC="{domain}"  |
+| 1           |Web of Science| TS=("machine learning" OR "informatics" OR "deep learning" OR "cheminformatics" OR "chemoinformatics" OR "QSAR" OR "QSPR") AND WC="{Domain}"  |
 
 
 ## Customization
