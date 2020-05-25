@@ -1,5 +1,5 @@
 ﻿year,count,count_domain,category
-2019,1124,182430,Materials Science
+2019,1213,188350,Materials Science
 2018,464,165938,Materials Science
 2017,235,162121,Materials Science
 2016,119,147722,Materials Science
@@ -19,7 +19,7 @@
 2002,3,66784,Materials Science
 2001,9,68480,Materials Science
 2000,6,67554,Materials Science
-2019,2674,259914,Chemistry
+2019,2937,277107,Chemistry
 2018,1919,231955,Chemistry
 2017,1337,222969,Chemistry
 2016,1120,217435,Chemistry
@@ -39,7 +39,7 @@
 2002,448,117084,Chemistry
 2001,385,114831,Chemistry
 2000,322,112190,Chemistry
-2019,1386,151779,Physics
+2019,1491,158003,Physics
 2018,743,171150,Physics
 2017,375,177894,Physics
 2016,216,174146,Physics
@@ -59,7 +59,7 @@
 2002,15,118072,Physics
 2001,9,113035,Physics
 2000,12,111741,Physics
-2019,8582,89635,Computer Science
+2019,9253,95092,Computer Science
 2018,5360,80261,Computer Science
 2017,3301,73235,Computer Science
 2016,2456,69900,Computer Science
@@ -79,7 +79,7 @@
 2002,359,30710,Computer Science
 2001,294,26623,Computer Science
 2000,273,28411,Computer Science
-2019,734,80198,Biochemistry & Molecular Biology
+2019,757,89140,Biochemistry & Molecular Biology
 2018,325,79865,Biochemistry & Molecular Biology
 2017,196,77135,Biochemistry & Molecular Biology
 2016,171,74790,Biochemistry & Molecular Biology
@@ -99,7 +99,7 @@
 2002,28,60344,Biochemistry & Molecular Biology
 2001,23,60126,Biochemistry & Molecular Biology
 2000,17,57879,Biochemistry & Molecular Biology
-2019,8079,308226,Engineering
+2019,9097,325711,Engineering
 2018,4619,286449,Engineering
 2017,2344,269072,Engineering
 2016,1501,251639,Engineering
