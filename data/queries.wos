@@ -1,0 +1,476 @@
+﻿<search>
+<application_name>WOS</application_name>
+<application_version>WoK 5.5</application_version>
+<search_name>Test Search</search_name>
+<search_desc>Test Search Description</search_desc>
+<sets>
+<set>
+<set_number>1</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;machine learning&quot; OR &quot;informatics&quot; OR &quot;deep learning&quot; OR &quot;cheminformatics&quot; OR &quot;chemoinformatics&quot; OR &quot;QSAR&quot; OR &quot;QSPR&quot;) AND WC=&quot;Materials Science&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;machine learning&quot; OR &quot;informatics&quot; OR &quot;deep learning&quot; OR &quot;cheminformatics&quot; OR &quot;chemoinformatics&quot; OR &quot;QSAR&quot; OR &quot;QSPR&quot;) AND WC=&quot;Materials Science&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;machine learning&quot; OR &quot;informatics&quot; OR &quot;deep learning&quot; OR &quot;cheminformatics&quot; OR &quot;chemoinformatics&quot; OR &quot;QSAR&quot; OR &quot;QSPR&quot;) AND WC=&quot;Materials Science&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;machine learning&quot; OR &quot;informatics&quot; OR &quot;deep learning&quot; OR &quot;cheminformatics&quot; OR &quot;chemoinformatics&quot; OR &quot;QSAR&quot; OR &quot;QSPR&quot;) AND WC=&quot;Materials Science&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;machine learning&quot; OR &quot;informatics&quot; OR &quot;deep learning&quot; OR &quot;cheminformatics&quot; OR &quot;chemoinformatics&quot; OR &quot;QSAR&quot; OR &quot;QSPR&quot;) AND WC=&quot;Materials Science&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>2</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Chemistry&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Chemistry&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Chemistry&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Chemistry&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Chemistry&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>3</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Physics&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Physics&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Physics&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Physics&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Physics&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>4</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Computer Science&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Computer Science&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Computer Science&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Computer Science&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Computer Science&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>5</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Biochemistry &amp; Molecular Biology&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Biochemistry &amp; Molecular Biology&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Biochemistry &amp; Molecular Biology&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Biochemistry &amp; Molecular Biology&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Biochemistry &amp; Molecular Biology&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>6</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Engineering&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Engineering&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Engineering&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Engineering&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;machine learning&quot;  OR  &quot;informatics&quot;  OR  &quot;deep  learning&quot;  OR  &quot;cheminformatics&quot;  OR  &quot;chemoinformatics&quot;  OR  &quot;QSAR&quot;  OR  &quot;QSPR&quot;)  AND  WC=&quot;Engineering&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>7</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[WC=&quot;Materials  Science&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[WC=&quot;Materials  Science&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[WC=&quot;Materials  Science&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[WC=&quot;Materials  Science&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[WC=&quot;Materials  Science&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>8</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[WC=&quot;Physics&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[WC=&quot;Physics&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[WC=&quot;Physics&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[WC=&quot;Physics&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[WC=&quot;Physics&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>9</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[WC=&quot;Chemistry&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[WC=&quot;Chemistry&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[WC=&quot;Chemistry&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[WC=&quot;Chemistry&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[WC=&quot;Chemistry&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>10</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[WC=&quot;Computer Science&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[WC=&quot;Computer Science&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[WC=&quot;Computer Science&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[WC=&quot;Computer Science&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[WC=&quot;Computer Science&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>11</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[WC=&quot;Engineering&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[WC=&quot;Engineering&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[WC=&quot;Engineering&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[WC=&quot;Engineering&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[WC=&quot;Engineering&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>12</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[WC=&quot;Biochemistry  &amp;  Molecular  Biology&quot;]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI BSCI BHCI ESCI CCR IC]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[WC=&quot;Biochemistry  &amp;  Molecular  Biology&quot; ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[WC=&quot;Biochemistry  &amp;  Molecular  Biology&quot; ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[WC=&quot;Biochemistry  &amp;  Molecular  Biology&quot; ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[WC=&quot;Biochemistry  &amp;  Molecular  Biology&quot;]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+</sets>
+</search>
