@@ -1,67 +1,70 @@
 ﻿year,count,count_domain,category
-2020,2234,199136,Materials Science
-2019,1213,188350,Materials Science
-2018,464,165938,Materials Science
-2017,235,162121,Materials Science
-2016,119,147722,Materials Science
-2015,109,140425,Materials Science
-2014,62,156657,Materials Science
-2013,46,150986,Materials Science
-2012,27,149895,Materials Science
-2011,30,137780,Materials Science
-2010,32,110954,Materials Science
-2009,45,101176,Materials Science
-2008,26,100775,Materials Science
-2007,23,96937,Materials Science
-2006,26,85648,Materials Science
-2005,15,80638,Materials Science
-2004,10,80224,Materials Science
-2003,9,73303,Materials Science
-2002,3,66784,Materials Science
-2001,9,68480,Materials Science
-2000,6,67554,Materials Science
-2020,4211,272424,Chemistry
-2019,2937,277107,Chemistry
-2018,1919,231955,Chemistry
-2017,1337,222969,Chemistry
-2016,1120,217435,Chemistry
-2015,1090,210867,Chemistry
-2014,970,205866,Chemistry
-2013,1063,193274,Chemistry
-2012,1051,185950,Chemistry
-2011,985,176698,Chemistry
-2010,910,161354,Chemistry
-2009,963,161934,Chemistry
-2008,915,156217,Chemistry
-2007,767,150369,Chemistry
-2006,744,146649,Chemistry
-2005,680,136977,Chemistry
-2004,645,131842,Chemistry
-2003,522,125264,Chemistry
-2002,448,117084,Chemistry
-2001,385,114831,Chemistry
-2000,322,112190,Chemistry
-2020,2678,165951,Physics
-2019,1491,158003,Physics
-2018,743,171150,Physics
-2017,375,177894,Physics
-2016,216,174146,Physics
-2015,152,170701,Physics
-2014,93,169827,Physics
-2013,83,169136,Physics
-2012,58,164420,Physics
-2011,70,157951,Physics
-2010,48,153188,Physics
-2009,51,151285,Physics
-2008,42,152091,Physics
-2007,38,148235,Physics
-2006,33,137138,Physics
-2005,36,131163,Physics
-2004,16,125616,Physics
-2003,12,123514,Physics
-2002,15,118072,Physics
-2001,9,113035,Physics
-2000,12,111741,Physics
+2021,3070,194520,Materials Science
+2020,2265,202724,Materials Science
+2019,1246,193508,Materials Science
+2018,471,166327,Materials Science
+2017,238,153283,Materials Science
+2016,119,139834,Materials Science
+2015,107,132429,Materials Science
+2014,62,121887,Materials Science
+2013,45,111814,Materials Science
+2012,27,102724,Materials Science
+2011,29,99861,Materials Science
+2010,31,90242,Materials Science
+2009,45,88476,Materials Science
+2008,26,84871,Materials Science
+2007,22,78541,Materials Science
+2006,26,74397,Materials Science
+2005,15,70605,Materials Science
+2004,10,66840,Materials Science
+2003,9,58725,Materials Science
+2002,3,57322,Materials Science
+2001,9,56248,Materials Science
+2000,6,53243,Materials Science
+2021,5044,263298,Chemistry
+2020,4327,283109,Chemistry
+2019,2989,288282,Chemistry
+2018,1943,260466,Chemistry
+2017,1352,246837,Chemistry
+2016,1115,236158,Chemistry
+2015,1092,229801,Chemistry
+2014,967,220993,Chemistry
+2013,1066,206616,Chemistry
+2012,1050,197402,Chemistry
+2011,988,191431,Chemistry
+2010,914,172347,Chemistry
+2009,967,170129,Chemistry
+2008,914,165577,Chemistry
+2007,772,157114,Chemistry
+2006,735,153117,Chemistry
+2005,682,143804,Chemistry
+2004,645,134722,Chemistry
+2003,521,125876,Chemistry
+2002,449,120806,Chemistry
+2001,384,116080,Chemistry
+2000,321,114047,Chemistry
+2021,3807,164709,Physics
+2020,3104,180909,Physics
+2019,1655,169952,Physics
+2018,772,160200,Physics
+2017,382,152789,Physics
+2016,219,148431,Physics
+2015,156,145868,Physics
+2014,93,142907,Physics
+2013,84,141293,Physics
+2012,59,135425,Physics
+2011,68,135425,Physics
+2010,47,127548,Physics
+2009,51,127327,Physics
+2008,43,127829,Physics
+2007,37,122587,Physics
+2006,33,120171,Physics
+2005,37,114179,Physics
+2004,16,109419,Physics
+2003,12,103159,Physics
+2002,15,100191,Physics
+2001,9,94797,Physics
+2000,12,93879,Physics
 2020,15110,107306,Computer Science
 2019,9253,95092,Computer Science
 2018,5360,80261,Computer Science
