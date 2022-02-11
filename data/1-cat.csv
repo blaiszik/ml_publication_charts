@@ -1,130 +1,133 @@
 ﻿year,count,count_domain,category
-2021,3070,194520,Materials Science
-2020,2265,202724,Materials Science
-2019,1246,193508,Materials Science
-2018,471,166327,Materials Science
-2017,238,153283,Materials Science
-2016,119,139834,Materials Science
+2021,"3,471",213470,Materials Science
+2020,"2,266",202620,Materials Science
+2019,"1,246",193664,Materials Science
+2018,471,166364,Materials Science
+2017,238,153367,Materials Science
+2016,119,139929,Materials Science
 2015,107,132429,Materials Science
-2014,62,121887,Materials Science
-2013,45,111814,Materials Science
-2012,27,102724,Materials Science
-2011,29,99861,Materials Science
-2010,31,90242,Materials Science
-2009,45,88476,Materials Science
-2008,26,84871,Materials Science
-2007,22,78541,Materials Science
-2006,26,74397,Materials Science
-2005,15,70605,Materials Science
+2014,64,124583,Materials Science
+2013,46,114134,Materials Science
+2012,27,104664,Materials Science
+2011,29,101664,Materials Science
+2010,32,91652,Materials Science
+2009,46,89824,Materials Science
+2008,26,85876,Materials Science
+2007,22,79474,Materials Science
+2006,26,75268,Materials Science
+2005,17,71454,Materials Science
 2004,10,66840,Materials Science
 2003,9,58725,Materials Science
 2002,3,57322,Materials Science
 2001,9,56248,Materials Science
 2000,6,53243,Materials Science
-2021,5044,263298,Chemistry
-2020,4327,283109,Chemistry
-2019,2989,288282,Chemistry
-2018,1943,260466,Chemistry
-2017,1352,246837,Chemistry
-2016,1115,236158,Chemistry
-2015,1092,229801,Chemistry
-2014,967,220993,Chemistry
-2013,1066,206616,Chemistry
-2012,1050,197402,Chemistry
-2011,988,191431,Chemistry
-2010,914,172347,Chemistry
-2009,967,170129,Chemistry
-2008,914,165577,Chemistry
-2007,772,157114,Chemistry
-2006,735,153117,Chemistry
-2005,682,143804,Chemistry
-2004,645,134722,Chemistry
-2003,521,125876,Chemistry
-2002,449,120806,Chemistry
-2001,384,116080,Chemistry
-2000,321,114047,Chemistry
-2021,3807,164709,Physics
-2020,3104,180909,Physics
-2019,1655,169952,Physics
-2018,772,160200,Physics
-2017,382,152789,Physics
-2016,219,148431,Physics
+2021,"5,761",292303,Chemistry
+2020,"4,327",283166,Chemistry
+2019,"2,989",288324,Chemistry
+2018,"1,942",260615,Chemistry
+2017,"1,352",247021,Chemistry
+2016,"1,115",236354,Chemistry
+2015,"1,092",229803,Chemistry
+2014,973,222546,Chemistry
+2013,"1,063",206685,Chemistry
+2012,"1,047",198814,Chemistry
+2011,982,192372,Chemistry
+2010,918,173352,Chemistry
+2009,966,170592,Chemistry
+2008,905,165960,Chemistry
+2007,774,157396,Chemistry
+2006,735,153534,Chemistry
+2005,683,144206,Chemistry
+2004,643,134367,Chemistry
+2003,521,125499,Chemistry
+2002,449,120465,Chemistry
+2001,384,115755,Chemistry
+2000,321,113643,Chemistry
+2021,"4,445",185322,Physics
+2020,"3,121",181074,Physics
+2019,"1,663",170083,Physics
+2018,775,160303,Physics
+2017,383,152839,Physics
+2016,219,148433,Physics
 2015,156,145868,Physics
-2014,93,142907,Physics
-2013,84,141293,Physics
-2012,59,135425,Physics
-2011,68,135425,Physics
-2010,47,127548,Physics
-2009,51,127327,Physics
-2008,43,127829,Physics
-2007,37,122587,Physics
-2006,33,120171,Physics
-2005,37,114179,Physics
+2014,94,145360,Physics
+2013,84,143406,Physics
+2012,59,137172,Physics
+2011,70,136878,Physics
+2010,47,128982,Physics
+2009,51,128663,Physics
+2008,43,128932,Physics
+2007,39,123466,Physics
+2006,33,121241,Physics
+2005,37,115221,Physics
 2004,16,109419,Physics
 2003,12,103159,Physics
 2002,15,100191,Physics
 2001,9,94797,Physics
-2000,12,93879,Physics
-2020,15110,107306,Computer Science
-2019,9253,95092,Computer Science
-2018,5360,80261,Computer Science
-2017,3301,73235,Computer Science
-2016,2456,69900,Computer Science
-2015,1909,63511,Computer Science
-2014,1455,55541,Computer Science
-2013,1232,52531,Computer Science
-2012,1126,49264,Computer Science
-2011,1123,48706,Computer Science
-2010,935,45307,Computer Science
-2009,843,44099,Computer Science
-2008,759,39491,Computer Science
-2007,609,34587,Computer Science
-2006,902,51469,Computer Science
-2005,805,52363,Computer Science
-2004,601,44868,Computer Science
-2003,491,39065,Computer Science
-2002,359,30710,Computer Science
-2001,294,26623,Computer Science
-2000,273,28411,Computer Science
-2020,952,92679,Biochemistry & Molecular Biology
-2019,757,89140,Biochemistry & Molecular Biology
-2018,325,79865,Biochemistry & Molecular Biology
-2017,196,77135,Biochemistry & Molecular Biology
-2016,171,74790,Biochemistry & Molecular Biology
-2015,149,75778,Biochemistry & Molecular Biology
-2014,122,75785,Biochemistry & Molecular Biology
-2013,98,75245,Biochemistry & Molecular Biology
-2012,113,77161,Biochemistry & Molecular Biology
-2011,123,75239,Biochemistry & Molecular Biology
-2010,86,73373,Biochemistry & Molecular Biology
-2009,101,70133,Biochemistry & Molecular Biology
-2008,87,71220,Biochemistry & Molecular Biology
-2007,88,68805,Biochemistry & Molecular Biology
-2006,76,68369,Biochemistry & Molecular Biology
-2005,48,68624,Biochemistry & Molecular Biology
-2004,52,66851,Biochemistry & Molecular Biology
-2003,42,64052,Biochemistry & Molecular Biology
-2002,28,60344,Biochemistry & Molecular Biology
-2001,23,60126,Biochemistry & Molecular Biology
-2000,17,57879,Biochemistry & Molecular Biology
-2020,15883,347626,Engineering
-2019,9097,325711,Engineering
-2018,4619,286449,Engineering
-2017,2344,269072,Engineering
-2016,1501,251639,Engineering
-2015,1097,235662,Engineering
-2014,776,208114,Engineering
-2013,604,198279,Engineering
-2012,522,186532,Engineering
-2011,512,179960,Engineering
-2010,459,170633,Engineering
-2009,386,168031,Engineering
-2008,302,155736,Engineering
-2007,228,144678,Engineering
-2006,270,136805,Engineering
-2005,191,131951,Engineering
-2004,148,121280,Engineering
-2003,115,119585,Engineering
-2002,89,112419,Engineering
-2001,82,111861,Engineering
-2000,71,111139,Engineering
+2000,12,93891,Physics
+2021,"20,466",115703,Computer Science
+2020,"16,187",115165,Computer Science
+2019,"9,929",101889,Computer Science
+2018,"5,749",83167,Computer Science
+2017,"3,563",74785,Computer Science
+2016,"2,666",70858,Computer Science
+2015,"2,146",64095,Computer Science
+2014,"1,855",62505,Computer Science
+2013,"1,605",59506,Computer Science
+2012,"1,500",55311,Computer Science
+2011,"1,450",53886,Computer Science
+2010,"1,245",50167,Computer Science
+2009,"1,159",48991,Computer Science
+2008,"1,111",43633,Computer Science
+2007,889,38458,Computer Science
+2006,"1,138",54709,Computer Science
+2005,"1,015",54892,Computer Science
+2004,795,44902,Computer Science
+2003,692,39042,Computer Science
+2002,503,30689,Computer Science
+2001,439,26615,Computer Science
+2000,351,28392,Computer Science
+2021,"1,245",96097,Biochemistry & Molecular Biology
+2020,974,95719,Biochemistry & Molecular Biology
+2019,808,93481,Biochemistry & Molecular Biology
+2018,555,81501,Biochemistry & Molecular Biology
+2017,374,77116,Biochemistry & Molecular Biology
+2016,326,74817,Biochemistry & Molecular Biology
+2015,316,75720,Biochemistry & Molecular Biology
+2014,285,76575,Biochemistry & Molecular Biology
+2013,244,76276,Biochemistry & Molecular Biology
+2012,362,78240,Biochemistry & Molecular Biology
+2011,393,76764,Biochemistry & Molecular Biology
+2010,321,74328,Biochemistry & Molecular Biology
+2009,310,70854,Biochemistry & Molecular Biology
+2008,345,71659,Biochemistry & Molecular Biology
+2007,282,69265,Biochemistry & Molecular Biology
+2006,258,68508,Biochemistry & Molecular Biology
+2005,201,68769,Biochemistry & Molecular Biology
+2004,211,66898,Biochemistry & Molecular Biology
+2003,165,64028,Biochemistry & Molecular Biology
+2002,127,60357,Biochemistry & Molecular Biology
+2001,115,60066,Biochemistry & Molecular Biology
+2000,69,57714,Biochemistry & Molecular Biology
+2021,"22,977",386846,Engineering
+2020,"16,474",367439,Engineering
+2019,"9,444",340821,Engineering
+2018,"4,887",297791,Engineering
+2017,"2,472",274702,Engineering
+2016,"1,602",254837,Engineering
+2015,"1,171",237706,Engineering
+2014,924,223465,Engineering
+2013,730,211919,Engineering
+2012,631,197885,Engineering
+2011,600,190335,Engineering
+2010,546,179543,Engineering
+2009,446,175633,Engineering
+2008,355,162699,Engineering
+2007,266,150682,Engineering
+2006,304,141633,Engineering
+2005,216,135805,Engineering
+2004,169,121106,Engineering
+2003,130,119236,Engineering
+2002,107,112543,Engineering
+2001,97,111670,Engineering
+2000,80,110985,Engineering
