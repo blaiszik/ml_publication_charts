@@ -3,25 +3,27 @@
 As machine learning has grown in popularity and domain of applicability, charts showing the growth have popped up in review articles, presentations, and more.
 Many of these charts seem to have different numbers (though showing the same trend!), and are often without provenance. Thus, this repository was made to act as a resource for those looking to dig into the numbers further, to quickly customize our existing plots, or to simply find a ready-made chart for their own usage. 
 
-# 2020 Results
+# 2021 Results
 Table showing the count and Compound Annual Growth Rate (CAGR) on the raw number of articles published over different periods for each domain. CAGR-N represents the CAGR over N years. 
 
 | Domain            | year | count | CAGR-1 (%) | CAGR-2 (%) | CAGR-5 (%) |
 |-------------------|------|-------|------------|------------|------------|
-| Materials Science | 2020 | 2234  | 84.2       | 119.4       | 82.9       |
-| Chemistry         | 2020 | 4211  | 43.4       | 48.1       | 31.0       |
-| Physics           | 2020 | 2678  | 79.6       | 89.9       | 77.5       |
+| Materials Science | 2021 | 3471  | 53.2       | 66.9       | 96.3       |
+| Chemistry         | 2021 | 4211  | 33.1       | 38.8       | 38.9       |
+| Physics           | 2021 | 4445  | 42.4       | 63.5       | 82.6       |
 
 # The Charts
 Note that the charts come in two forms, normalized and count. Normalized plots take into account the relative size of the domain of interest (i.e., the number of matching articles / the total number of articles in a domain).
+
+## Line Plots
+![All domain grid line](./output/1-grid-line-norm.png)
+![All domain overlay line](./output/1-all-line-norm.png)
 
 ## Scatter Plots
 ![All domain grid scatter](./output/1-grid.png)
 ![All domain overlay scatter](./output/1-all-scatter.png)
 
-## Line Plots
-![All domain grid line](./output/1-grid-line-norm.png)
-![All domain overlay line](./output/1-all-line-norm.png)
+
 
 ## The Domains
 * Materials Science
