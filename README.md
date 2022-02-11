@@ -15,9 +15,12 @@ Table showing the count and Compound Annual Growth Rate (CAGR) on the raw number
 # The Charts
 Note that the charts come in two forms, normalized and count. Normalized plots take into account the relative size of the domain of interest (i.e., the number of matching articles / the total number of articles in a domain).
 
-## Line Plots
-![All domain grid line](./output/1-grid-line-norm.png)
+## Normalized Line Plot
 ![All domain overlay line](./output/1-all-line-norm.png)
+
+## Raw Count Line Plot
+![All domain overlay line](./output/1-all-line.png)
+
 
 ## Scatter Plots
 ![All domain grid scatter](./output/1-grid.png)
