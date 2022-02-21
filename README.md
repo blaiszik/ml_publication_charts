@@ -8,9 +8,9 @@ Table showing the count and Compound Annual Growth Rate (CAGR) on the raw number
 
 | Domain            | year | count | CAGR-1 (%) | CAGR-2 (%) | CAGR-5 (%) |
 |-------------------|------|-------|------------|------------|------------|
-| Materials Science | 2021 | 3471  | 53.2       | 66.9       | 96.3       |
-| Chemistry         | 2021 | 4211  | 33.1       | 38.8       | 38.9       |
-| Physics           | 2021 | 4445  | 42.4       | 63.5       | 82.6       |
+| Materials Science | 2021 | 3471  | 54.4       | 67.5       | 96.6       |
+| Chemistry         | 2021 | 4211  | 34.1       | 39.3       | 39.1       |
+| Physics           | 2021 | 4445  | 43.0       | 63.8       | 82.7       |
 
 # The Charts
 Note that the charts come in two forms, normalized and count. Normalized plots take into account the relative size of the domain of interest (i.e., the number of matching articles / the total number of articles in a domain).
