@@ -1,114 +1,137 @@
-﻿year,count,count_domain,category,
-2022,5291,189703,Materials Science,
-2021,4285,228829,Materials Science,
-2020,2644,203229,Materials Science,
-2019,1492,193890,Materials Science,
-2018,579,166587,Materials Science,
-2017,296,153283,Materials Science,
-2016,158,139901,Materials Science,
-2015,136,132432,Materials Science,
-2014,85,124584,Materials Science,
-2013,70,114134,Materials Science,
-2012,41,104664,Materials Science,
-2011,45,101384,Materials Science,
-2010,52,91651,Materials Science,
-2009,60,89825,Materials Science,
-2008,39,85877,Materials Science,
-2007,34,79470,Materials Science,
-2006,43,75267,Materials Science,
-2005,34,71453,Materials Science,
-2004,27,66840,Materials Science,
-2003,19,58725,Materials Science,
-2002,13,57322,Materials Science,
-2001,23,56276,Materials Science,
-2000,13,53243,Materials Science,
-2022,7406,255105,Chemistry,
-2021,6713,313286,Chemistry,
-2020,4737,284723,Chemistry,
-2019,3232,288555,Chemistry,
-2018,2069,260513,Chemistry,
-2017,1413,246854,Chemistry,
-2016,1138,236173,Chemistry,
-2015,1121,229784,Chemistry,
-2014,993,222490,Chemistry,
-2013,1084,206646,Chemistry,
-2012,1076,198777,Chemistry,
-2011,999,192379,Chemistry,
-2010,936,173382,Chemistry,
-2009,981,170556,Chemistry,
-2008,913,165916,Chemistry,
-2007,784,157322,Chemistry,
-2006,749,153426,Chemistry,
-2005,696,144188,Chemistry,
-2004,649,134268,Chemistry,
-2003,534,125457,Chemistry,
-2002,455,120466,Chemistry,
-2001,399,115825,Chemistry,
-2000,329,113643,Chemistry,
-2022,5746,159477,Physics,
-2021,5167,194807,Physics,
-2020,3457,181379,Physics,
-2019,1869,170220,Physics,
-2018,871,160323,Physics,
-2017,432,152834,Physics,
-2016,245,148444,Physics,
-2015,177,145879,Physics,
-2014,108,145364,Physics,
-2013,107,143407,Physics,
-2012,76,137180,Physics,
-2011,85,136885,Physics,
-2010,58,128984,Physics,
-2009,69,128666,Physics,
-2008,54,128934,Physics,
-2007,49,123468,Physics,
-2006,44,121234,Physics,
-2005,40,115229,Physics,
-2004,29,109419,Physics,
-2003,19,103160,Physics,
-2002,22,100191,Physics,
-2001,12,94797,Physics,
-2000,17,93879,Physics,
-2021,24325,116534,Computer Science,
-2020,18148,115165,Computer Science,
-2019,11113,101889,Computer Science,
-2018,6417,83167,Computer Science,
-2017,4079,74785,Computer Science,
-2016,3120,70858,Computer Science,
-2015,2479,64095,Computer Science,
-2014,2259,62505,Computer Science,
-2013,1940,59506,Computer Science,
-2012,1816,55311,Computer Science,
-2011,1772,53886,Computer Science,
-2010,1525,50167,Computer Science,
-2009,1485,48991,Computer Science,
-2008,1388,43633,Computer Science,
-2007,1156,38458,Computer Science,
-2006,1420,54709,Computer Science,
-2005,1279,54892,Computer Science,
-2004,1034,44902,Computer Science,
-2003,911,39042,Computer Science,
-2002,685,30689,Computer Science,
-2001,639,26615,Computer Science,
-2000,545,28392,Computer Science,
-2021,8684,33384,"Computer Science, Artificial Intelligence",
-2020,6197,28679,"Computer Science, Artificial Intelligence",
-2019,3745,23374,"Computer Science, Artificial Intelligence",
-2018,2472,20518,"Computer Science, Artificial Intelligence",
-2017,1764,19094,"Computer Science, Artificial Intelligence",
-2016,1397,18856,"Computer Science, Artificial Intelligence",
-2015,1109,16441,"Computer Science, Artificial Intelligence",
-2014,1028,15930,"Computer Science, Artificial Intelligence",
-2013,864,13949,"Computer Science, Artificial Intelligence",
-2012,861,14389,"Computer Science, Artificial Intelligence",
-2011,818,13956,"Computer Science, Artificial Intelligence",
-2010,711,12801,"Computer Science, Artificial Intelligence",
-2009,687,12042,"Computer Science, Artificial Intelligence",
-2008,598,10089,"Computer Science, Artificial Intelligence",
-2007,469,8537,"Computer Science, Artificial Intelligence",
-2006,725,17533,"Computer Science, Artificial Intelligence",
-2005,650,16959,"Computer Science, Artificial Intelligence",
-2004,505,12632,"Computer Science, Artificial Intelligence",
-2003,404,10668,"Computer Science, Artificial Intelligence",
-2002,319,8295,"Computer Science, Artificial Intelligence",
-2001,251,5634,"Computer Science, Artificial Intelligence",
-2000,247,5790,"Computer Science, Artificial Intelligence",
+﻿year,count,count_domain,category
+2022,6180,218240,Materials Science
+2021,4443,229275,Materials Science
+2020,2751,203388,Materials Science
+2019,1600,193931,Materials Science
+2018,699,166626,Materials Science
+2017,457,153281,Materials Science
+2016,270,139903,Materials Science
+2015,202,132433,Materials Science
+2014,152,124584,Materials Science
+2013,119,114138,Materials Science
+2012,89,104665,Materials Science
+2011,98,101384,Materials Science
+2010,115,91651,Materials Science
+2009,185,89825,Materials Science
+2008,134,85877,Materials Science
+2007,167,79470,Materials Science
+2006,177,75267,Materials Science
+2005,174,71453,Materials Science
+2004,162,66840,Materials Science
+2003,123,58725,Materials Science
+2002,127,57323,Materials Science
+2001,210,56276,Materials Science
+2000,207,53243,Materials Science
+2022,8842,297229,Chemistry
+2021,6940,313584,Chemistry
+2020,4959,284753,Chemistry
+2019,3415,288552,Chemistry
+2018,2234,260511,Chemistry
+2017,1604,246860,Chemistry
+2016,1267,236175,Chemistry
+2015,1247,229785,Chemistry
+2014,1113,222491,Chemistry
+2013,1175,206657,Chemistry
+2012,1181,198778,Chemistry
+2011,1093,192379,Chemistry
+2010,1041,173381,Chemistry
+2009,1123,170557,Chemistry
+2008,1016,165916,Chemistry
+2007,907,157323,Chemistry
+2006,865,153427,Chemistry
+2005,814,144191,Chemistry
+2004,745,134268,Chemistry
+2003,621,125459,Chemistry
+2002,545,120466,Chemistry
+2001,528,115826,Chemistry
+2000,419,113643,Chemistry
+2022,6829,184803,Physics
+2021,5281,194821,Physics
+2020,3520,181402,Physics
+2019,1926,170218,Physics
+2018,955,160323,Physics
+2017,515,152836,Physics
+2016,307,148438,Physics
+2015,233,145878,Physics
+2014,154,145371,Physics
+2013,154,143420,Physics
+2012,121,137181,Physics
+2011,137,136886,Physics
+2010,100,128983,Physics
+2009,135,128672,Physics
+2008,116,128942,Physics
+2007,122,123469,Physics
+2006,121,121244,Physics
+2005,113,115239,Physics
+2004,96,109419,Physics
+2003,77,103167,Physics
+2002,96,100193,Physics
+2001,119,94800,Physics
+2000,123,93882,Physics
+2021,24325,116534,Computer Science
+2020,18148,115165,Computer Science
+2019,11113,101889,Computer Science
+2018,6417,83167,Computer Science
+2017,4079,74785,Computer Science
+2016,3120,70858,Computer Science
+2015,2479,64095,Computer Science
+2014,2259,62505,Computer Science
+2013,1940,59506,Computer Science
+2012,1816,55311,Computer Science
+2011,1772,53886,Computer Science
+2010,1525,50167,Computer Science
+2009,1485,48991,Computer Science
+2008,1388,43633,Computer Science
+2007,1156,38458,Computer Science
+2006,1420,54709,Computer Science
+2005,1279,54892,Computer Science
+2004,1034,44902,Computer Science
+2003,911,39042,Computer Science
+2002,685,30689,Computer Science
+2001,639,26615,Computer Science
+2000,545,28392,Computer Science
+2021,8684,33384,"Computer Science, Artificial Intelligence"
+2020,6197,28679,"Computer Science, Artificial Intelligence"
+2019,3745,23374,"Computer Science, Artificial Intelligence"
+2018,2472,20518,"Computer Science, Artificial Intelligence"
+2017,1764,19094,"Computer Science, Artificial Intelligence"
+2016,1397,18856,"Computer Science, Artificial Intelligence"
+2015,1109,16441,"Computer Science, Artificial Intelligence"
+2014,1028,15930,"Computer Science, Artificial Intelligence"
+2013,864,13949,"Computer Science, Artificial Intelligence"
+2012,861,14389,"Computer Science, Artificial Intelligence"
+2011,818,13956,"Computer Science, Artificial Intelligence"
+2010,711,12801,"Computer Science, Artificial Intelligence"
+2009,687,12042,"Computer Science, Artificial Intelligence"
+2008,598,10089,"Computer Science, Artificial Intelligence"
+2007,469,8537,"Computer Science, Artificial Intelligence"
+2006,725,17533,"Computer Science, Artificial Intelligence"
+2005,650,16959,"Computer Science, Artificial Intelligence"
+2004,505,12632,"Computer Science, Artificial Intelligence"
+2003,404,10668,"Computer Science, Artificial Intelligence"
+2002,319,8295,"Computer Science, Artificial Intelligence"
+2001,251,5634,"Computer Science, Artificial Intelligence"
+2000,247,5790,"Computer Science, Artificial Intelligence"
+2022,2328,34490,"Geosciences, Multidisciplinary"
+2021,2209,42622,"Geosciences, Multidisciplinary"
+2020,1419,40846,"Geosciences, Multidisciplinary"
+2019,761,35994,"Geosciences, Multidisciplinary"
+2018,364,32215,"Geosciences, Multidisciplinary"
+2017,176,27616,"Geosciences, Multidisciplinary"
+2016,108,28002,"Geosciences, Multidisciplinary"
+2015,69,26893,"Geosciences, Multidisciplinary"
+2014,51,24736,"Geosciences, Multidisciplinary"
+2013,29,23758,"Geosciences, Multidisciplinary"
+2012,24,20864,"Geosciences, Multidisciplinary"
+2011,27,19961,"Geosciences, Multidisciplinary"
+2010,11,19207,"Geosciences, Multidisciplinary"
+2009,13,18527,"Geosciences, Multidisciplinary"
+2008,17,17754,"Geosciences, Multidisciplinary"
+2007,4,16720,"Geosciences, Multidisciplinary"
+2006,7,16079,"Geosciences, Multidisciplinary"
+2005,3,14476,"Geosciences, Multidisciplinary"
+2004,2,13345,"Geosciences, Multidisciplinary"
+2003,0,12224,"Geosciences, Multidisciplinary"
+2002,3,11638,"Geosciences, Multidisciplinary"
+2001,4,11351,"Geosciences, Multidisciplinary"
+2000,0,10578,"Geosciences, Multidisciplinary"
