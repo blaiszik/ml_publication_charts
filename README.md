@@ -3,29 +3,23 @@
 As machine learning has grown in popularity and domain of applicability, charts showing the growth have popped up in review articles, presentations, and more.
 Many of these charts seem to have different numbers (though showing the same trend!), and are often without provenance. Thus, this repository was made to act as a resource for those looking to dig into the numbers further, to quickly customize our existing plots, or to simply find a ready-made chart for their own usage. 
 
-# 2021 Results
+# 2022 Results
 Table showing the count and Compound Annual Growth Rate (CAGR) on the raw number of articles published over different periods for each domain. CAGR-N represents the CAGR over N years. 
 
 | Domain            | year | count | CAGR-1 (%) | CAGR-2 (%) | CAGR-5 (%) |
 |-------------------|------|-------|------------|------------|------------|
-| Materials Science | 2021 | 3471  | 54.4       | 67.5       | 96.6       |
-| Chemistry         | 2021 | 4211  | 34.1       | 39.3       | 39.1       |
-| Physics           | 2021 | 4445  | 43.0       | 63.8       | 82.7       |
+| Materials Science | 2022 | 6180  | 39.1       | 49.9       | 68.4       |
+| Chemistry         | 2022 | 8842  | 27.4       | 33.5       | 40.7       |
+| Physics           | 2022 | 6829  | 29.3       | 39.3       | 67.7       |
 
 # The Charts
 Note that the charts come in two forms, normalized and count. Normalized plots take into account the relative size of the domain of interest (i.e., the number of matching articles / the total number of articles in a domain).
 
 ## Normalized Line Plot
-![All domain overlay line](./output/1-all-line-norm.png)
+![All domain overlay line](./output/2023-normalized.png)
 
 ## Raw Count Line Plot
-![All domain overlay line](./output/1-all-line.png)
-
-
-## Scatter Plots
-![All domain grid scatter](./output/1-grid.png)
-![All domain overlay scatter](./output/1-all-scatter.png)
-
+![All domain overlay line](./output/2023-count.png)
 
 
 ## The Domains
@@ -39,7 +33,7 @@ Note that the charts come in two forms, normalized and count. Normalized plots t
 
 | ID      | Service |Query |
 | ----------- |----| ----------- |
-| 1           |Web of Science| TS=("machine learning" OR "informatics" OR "deep learning" OR "cheminformatics" OR "chemoinformatics" OR "QSAR" OR "QSPR") AND WC="{Domain}"  |
+| 1           |Web of Science| TS=("machine learning" OR "informatics" OR "deep learning" OR "cheminformatics" OR "artificial intelligence" OR "chemoinformatics" OR "QSAR" OR "QSPR") AND WC="{Domain}"  |
 
 
 ## Customization
