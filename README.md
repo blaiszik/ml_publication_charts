@@ -53,14 +53,15 @@ Note that the charts come in two forms, normalized and count. Normalized plots t
 Ben Blaiszik, “2021 AI/ML Publication Statistics and Charts”. Zenodo, Sep. 07, 2022. doi: 10.5281/zenodo.7057437.
 
 ```
-@software{ben_blaiszik_2022_7057437,
+@software{ben_blaiszik_2023_7713954,
   author       = {Ben Blaiszik},
-  title        = {2021 AI/ML Publication Statistics and Charts},
-  month        = sep,
-  year         = 2022,
+  title        = {{blaiszik/ml\_publication\_charts: AI/ML Publication 
+                   Statistics for 2022}},
+  month        = mar,
+  year         = 2023,
   publisher    = {Zenodo},
-  version      = {2022.09},
-  doi          = {10.5281/zenodo.7057437},
-  url          = {https://doi.org/10.5281/zenodo.7057437}
+  version      = {2023.03},
+  doi          = {10.5281/zenodo.7713954},
+  url          = {https://doi.org/10.5281/zenodo.7713954}
 }
 ```
