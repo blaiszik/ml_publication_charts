@@ -3,23 +3,23 @@
 As machine learning has grown in popularity and domain of applicability, charts showing the growth have popped up in review articles, presentations, and more.
 Many of these charts seem to have different numbers (though showing the same trend!), and are often without provenance. Thus, this repository was made to act as a resource for those looking to dig into the numbers further, to quickly customize our existing plots, or to simply find a ready-made chart for their own usage. 
 
-# 2024 Results
-Table showing the count and Compound Annual Growth Rate (CAGR) on the raw number of articles published over different periods for each domain. CAGR-N represents the CAGR over N years. 
+# 2025 Results
+Table showing the count and Compound Annual Growth Rate (CAGR) on the raw number of articles published over different periods for each domain. CAGR-N represents the CAGR over N years.
 
 | Domain            | year | count | CAGR-1 (%) | CAGR-2 (%) | CAGR-5 (%) |
 |-------------------|------|-------|------------|------------|------------|
-| Materials Science | 2024 | 9295  | 20.9       | 21.0       | 44.2       |
-| Chemistry         | 2024 | 11562 | 11.9       | 13.9       | 29.0       |
-| Physics           | 2024 | 9231  | 12.4       | 15.2       | 37.4       |
+| Materials Science | 2025 | 12987 | 36.9       | 29.7       | 37.3       |
+| Chemistry         | 2025 | 16522 | 40.8       | 26.0       | 28.3       |
+| Physics           | 2025 | 11955 | 27.5       | 20.1       | 27.9       |
 
 # The Charts
 Note that the charts come in two forms, normalized and count. Normalized plots take into account the relative size of the domain of interest (i.e., the number of matching articles / the total number of articles in a domain).
 
 ## Normalized Line Plot
-![All domain overlay line](./output/2024-normalized.png)
+![All domain overlay line](./output/2025-normalized.png)
 
 ## Raw Count Line Plot
-![All domain overlay line](./output/2024-count.png)
+![All domain overlay line](./output/2025-count.png)
 
 
 ## The Domains
@@ -50,11 +50,11 @@ Note that the charts come in two forms, normalized and count. Normalized plots t
 * Fix plots now that there are more domains in the data
 
 ## Cite
-Ben Blaiszik. “Blaiszik/ml_publication_charts: AI/ML Publication Statistics for 2024”. Zenodo, March 22, 2025. https://doi.org/10.5281/zenodo.15069338.
+Ben Blaiszik. “Blaiszik/ml_publication_charts: AI/ML Publication Statistics for 2025”. Zenodo, March 22, 2025. https://doi.org/10.5281/zenodo.15069338.
 ```
 @software{ben_blaiszik_2023_7713954,
   author       = {Ben Blaiszik},
-  title        = {Blaiszik/ml_publication_charts: AI/ML Publication Statistics for 2024},
+  title        = {Blaiszik/ml_publication_charts: AI/ML Publication Statistics for 2025},
   month        = mar,
   year         = 2025,
   publisher    = {Zenodo},
