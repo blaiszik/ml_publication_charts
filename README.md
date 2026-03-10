@@ -50,16 +50,16 @@ Note that the charts come in two forms, normalized and count. Normalized plots t
 * Fix plots now that there are more domains in the data
 
 ## Cite
-Ben Blaiszik. “Blaiszik/ml_publication_charts: AI/ML Publication Statistics for 2025”. Zenodo, March 22, 2025. https://doi.org/10.5281/zenodo.15069338.
+Ben Blaiszik. (2026). blaiszik/ml_publication_charts: 2026 Update (2026.03). Zenodo. https://doi.org/10.5281/zenodo.18939970.
 ```
-@software{ben_blaiszik_2023_7713954,
+@software{ben_blaiszik_2026_18939970,
   author       = {Ben Blaiszik},
-  title        = {Blaiszik/ml_publication_charts: AI/ML Publication Statistics for 2025},
+  title        = {blaiszik/ml\_publication\_charts: 2026 Update},
   month        = mar,
-  year         = 2025,
+  year         = 2026,
   publisher    = {Zenodo},
-  version      = {2025.03},
-  doi          = {10.5281/zenodo.15069338},
-  url          = {https://doi.org/10.5281/zenodo.15069338}
+  version      = {2026.03},
+  doi          = {10.5281/zenodo.18939970},
+  url          = {https://doi.org/10.5281/zenodo.18939970},
 }
 ```
